@@ -64,8 +64,3 @@ In this project, I have used Observer Pattern to create a Node Subject and Node 
  - ErrorCheck.java: This class file implements ErrorDisplayInterface to log error in the errorLog.txt and print errors in the terminal. Also has a method to check if the string num can be converted to Int.
  - FileProcessor.java: This class file implements FileProcessorInterface to create three binary search trees with subject and observer nodes.
  - Results.java: This class implements FileDisplayInterface and StdoutDisplayInterface to print and write results to the bstOutput.txt file.
-
-
-
-
-Date: 10/23/2022
