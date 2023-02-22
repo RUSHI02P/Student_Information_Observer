@@ -1,0 +1,24 @@
+// Inorder traversal 
+BST:  5, 7, 10, 13, 14, 
+Backup1:  5, 7, 10, 13, 14, 
+Backup2:  5, 7, 10, 13, 14, 
+
+
+// Sum of all the B-Numbers in each tree 
+SUM BST: 49
+SUM Backup1: 49
+SUM Backup2: 49
+
+
+// Inorder traversal 
+BST:  10, 12, 15, 18, 19, 
+Backup1:  10, 12, 15, 18, 19, 
+Backup2:  10, 12, 15, 18, 19, 
+
+
+// Sum of all the B-Numbers in each tree after increment 
+SUM BST: 74
+SUM Backup1: 74
+SUM Backup2: 74
+
+
