@@ -1,6 +1,3 @@
-Following are the commands and the instructions to run ANT.
-#### Note: build.xml is present in studentRecordsBackupTree/src folder.
-
 -----------------------------------------------------------------------
 ## Instruction to clean:
 
